@@ -1,2 +1,2 @@
 # communismButton
-Be happy
+An overnight meme project
